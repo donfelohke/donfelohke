@@ -1,16 +1,27 @@
-## Hi there 👋
+### Don Feloh · @donfelohke
 
-<!--
-**donfelohke/donfelohke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Human author · Loctician · Systems engineer · Genge practitioner**
 
-Here are some ideas to get you started:
+### GRACE · GRIT · GLORY
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | | |
+|:--|:--|:--|
+| **GRACE** | [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Beauty · Craft · Livelihood |
+| **GRIT** | [WARENA](https://github.com/donfelohke/WARENA) | Systems · Freedom · Infrastructure |
+| **GLORY** | GENJE · authorship | Expression · Embodiment · Achievement |
+
+**GENJE ZA WARENA** — The Fire of the Formidable.
+
+**ONLY NAKEBUSEN TRANSACTS.**
+
+### Explore the work
+
+- [Public website](https://donfelohke.github.io) — portfolio and entry point
+- [feloh-corpus](https://github.com/donfelohke/feloh-corpus) — canonical knowledge and governance
+- [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) — beauty craft and commercial boundary
+- [WARENA](https://github.com/donfelohke/WARENA) — systems engineering and reproducibility
+- [Genje](https://github.com/donfelohke/Genje) — creative practice and provenance
+- [Ikai](https://github.com/donfelohke/Ikai) — reflective-compute research
+- [Gallery](https://github.com/donfelohke/Gallery) — curated assets and rights
+
+Eldoret, Kenya · [WhatsApp 0719 635 415](https://wa.me/254719635415)
