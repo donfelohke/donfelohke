@@ -25,7 +25,7 @@ Loctician · GNU/Linux systems · Algorave / Genge · Choreohacker
 | **Facebook (person)** | [Don Feloh](https://www.facebook.com/people/Don-Feloh/pfbid02tWGqt1NJiMnPPFZv33bJQWsySV15MxjbuSXvVjwnxAHCPMTkARm6EDL2c4kGb5cil/) | Founder / CTO · movement research |
 | **Facebook (business)** | [Nakebusen 023 Beauty Lounge](https://www.facebook.com/p/Nakebusen-023-Beauty-Lounge-61558789500287/) | Locs & nail care · Lodwar |
 | **GitHub** | [donfelohke](https://github.com/donfelohke) | Code · corpus · systems |
-| **WhatsApp** | [0719 635 415](https://wa.me/254719635415) | Enquiry / booking path |
+| **WhatsApp** | [0719 635 415](https://wa.me/254719635415) | Enquiry; not a confirmed booking |
 
 **Pinterest:** no verified public profile found under donfelohke / NAKEBUSEN / Feloh Warena (search 25 Oct 2026).
 
@@ -33,11 +33,11 @@ Loctician · GNU/Linux systems · Algorave / Genge · Choreohacker
 
 ### NAKEBUSEN — GRACE (transacting enterprise)
 
-**Nakebusen 023 Beauty Lounge** · Kanamkemer / Lodwar, Turkana · Salon · Home · Call  
-Phone **0719 635 415** · M-Pesa  
-Loc retwists · Sisterlocs · Artificial & natural locs · Gel nails · Manicure / pedicure  
-Public starting prices on [site](https://donfelohke.github.io) and Facebook; final quote before work.  
-**Enquiry ≠ booking.**
+**Current public campaign:** NAKEBUSEN Locs · Eldoret Town / Karibu Mdosi, Uasin Gishu, Kenya.  
+**Current featured offer:** Retouch & Styling from KES 700 · Sisterlocs Retie from KES 1,500 · Artificial Locs Installation from KES 3,500.  
+WhatsApp / phone **0719 635 415**. Ask about availability and suitability before travelling or arranging a visit; final scope and quote are agreed before work. **Enquiry ≠ confirmed booking.** Braiding is not offered.
+
+**Roots and history:** Nakebusen 023 Beauty Lounge, Kanamkemer / Lodwar, Turkana. Preserve this as the business's historical/rooted context; do not imply equal current service coverage in Lodwar unless reconfirmed. Older nail/service menus and prices must be revalidated before being promoted as current.
 
 ---
 
