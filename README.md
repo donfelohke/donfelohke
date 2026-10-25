@@ -2,11 +2,11 @@
 
 # Feloh Warena 🇰🇪
 
-**Don Feloh** · **@donfelohke** · **#HisGenjeness** · **#BaddieFahmr**
+**Don Feloh** · **Felix Lwova** · **@donfelohke** · **#HisGenjeness** · **#BaddieFahmr**
 
 `#LibreSource` · E-Genge & Laban · `#NotYetUhuru` · NAKEBUSEN · Warena · **GRACE·GRIT·GLORY** 🌍💻
 
-Human author · Loctician · Systems builder · Genge / Algorave practitioner  
+Loctician · GNU/Linux systems · Algorave / Genge · Choreohacker  
 **GENJE ZA WARENA** — *The Fire of the Formidable*  
 **ONLY NAKEBUSEN TRANSACTS.** · The human remains author.
 
@@ -14,20 +14,30 @@ Human author · Loctician · Systems builder · Genge / Algorave practitioner
 
 ---
 
-### Presence (verified)
+### Presence — verified public accounts
 
-| Platform | Account | Role |
+| Platform | Handle / page | Notes |
 |:--|:--|:--|
 | **Website** | [donfelohke.github.io](https://donfelohke.github.io) | Portfolio · services · enquiry |
-| **X** | [@donfelohke](https://x.com/donfelohke) | Public voice · politics · culture · Genge |
-| **Instagram** | [@donfelohke](https://www.instagram.com/donfelohke/) | Arts · GNU/Linux · Algorave · locs |
-| **TikTok** | [@donfelohke](https://www.tiktok.com/@donfelohke) | Locs · nails · Turkana / Lodwar craft |
-| **Facebook (person)** | [Don Feloh](https://www.facebook.com/people/Don-Feloh/pfbid02tWGqt1NJiMnPPFZv33bJQWsySV15MxjbuSXvVjwnxAHCPMTkARm6EDL2c4kGb5cil/) | Founder / CTO · Laban movement research |
-| **Facebook (business)** | [Nakebusen 023 Beauty Lounge](https://www.facebook.com/p/Nakebusen-023-Beauty-Lounge-61558789500287/) | Locs & nail care · Kanamkemer / Lodwar |
+| **X** | [@donfelohke](https://x.com/donfelohke) | Feloh Warena · Lodwar · public voice |
+| **Instagram** | [@donfelohke](https://www.instagram.com/donfelohke/) | GNU/Linux · Algorave · locs · #BaddieFahmr |
+| **TikTok** | [@donfelohke](https://www.tiktok.com/@donfelohke) | NAKEBUSEN locs & nails · Turkana craft |
+| **Facebook (person)** | [Don Feloh](https://www.facebook.com/people/Don-Feloh/pfbid02tWGqt1NJiMnPPFZv33bJQWsySV15MxjbuSXvVjwnxAHCPMTkARm6EDL2c4kGb5cil/) | Founder / CTO · movement research |
+| **Facebook (business)** | [Nakebusen 023 Beauty Lounge](https://www.facebook.com/p/Nakebusen-023-Beauty-Lounge-61558789500287/) | Locs & nail care · Lodwar |
 | **GitHub** | [donfelohke](https://github.com/donfelohke) | Code · corpus · systems |
-| **WhatsApp** | [0719 635 415](https://wa.me/254719635415) | Booking / enquiry |
+| **WhatsApp** | [0719 635 415](https://wa.me/254719635415) | Enquiry / booking path |
 
-**Pinterest:** no verified public account found under these names (search 2026-10-25).
+**Pinterest:** no verified public profile found under donfelohke / NAKEBUSEN / Feloh Warena (search 25 Oct 2026).
+
+---
+
+### NAKEBUSEN — GRACE (transacting enterprise)
+
+**Nakebusen 023 Beauty Lounge** · Kanamkemer / Lodwar, Turkana · Salon · Home · Call  
+Phone **0719 635 415** · M-Pesa  
+Loc retwists · Sisterlocs · Artificial & natural locs · Gel nails · Manicure / pedicure  
+Public starting prices on [site](https://donfelohke.github.io) and Facebook; final quote before work.  
+**Enquiry ≠ booking.**
 
 ---
 
@@ -38,10 +48,6 @@ Human author · Loctician · Systems builder · Genge / Algorave practitioner
 | **GRACE** | [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Locs · nails · beauty craft · livelihood |
 | **GRIT** | [WARENA](https://github.com/donfelohke/WARENA) | GNU/Linux · local-first · infrastructure |
 | **GLORY** | [Genje](https://github.com/donfelohke/Genje) | E-Genge · Algorave · Laban · choreohack |
-
-**NAKEBUSEN 023 Beauty Lounge** — Kanamkemer, Lodwar · Salon · Home · Call  
-Loc retwists · Sisterlocs · Nails · Manicure / pedicure · M-Pesa  
-Starting prices published on site; final quote before work.
 
 ---
 
@@ -65,10 +71,14 @@ ONE CORPUS → MANY VIEWS → ONE PRACTICE
 
 ---
 
+### Background (public self-description)
+
+Facebook About lists: Founder & CTO, Nakebusen 023 Beauty Lounge · movement research associations (ICKL / Laban–Bartenieff, as stated there) · Chuka University · Chavakali High School.  
+Treat education and institutional affiliations as **self-reported on Facebook** until independently verified for formal bios.
+
+---
+
 ### Contact
 
 **Lodwar · Turkana** (roots / salon) · **Eldoret · Uasin Gishu** (practice) · Kenya  
-Phone / WhatsApp: **[0719 635 415](https://wa.me/254719635415)**  
-X · IG · TikTok: **@donfelohke**
-
-Enquiry is not a booking. Scope and price are agreed before any work proceeds.
+**WhatsApp [0719 635 415](https://wa.me/254719635415)** · **@donfelohke** on X · Instagram · TikTok
