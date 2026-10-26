@@ -82,3 +82,22 @@ Treat education and institutional affiliations as **self-reported on Facebook** 
 
 **Lodwar · Turkana** (roots / salon) · **Eldoret · Uasin Gishu** (practice) · Kenya  
 **WhatsApp [0719 635 415](https://wa.me/254719635415)** · **@donfelohke** on X · Instagram · TikTok
+
+---
+
+## Canonical architecture update — 2026-10-26
+
+Current system map:
+
+- **FELOH** — human author and integrated practice.
+- **NAKEBUSEN** — parent enterprise and only commercial/transaction interface.
+- **NAKEBUSEN LOCS** — loc craft and relevant beauty services.
+- **NAKEBUSEN DIGITAL** — digital division; **WARENA** is its technical identity.
+- **WARENA Systems** — systems engineering and infrastructure.
+- **IKAI Mirror** — reflective-computing research; not a released product.
+- **GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE** — current NIA naming, cultural identity and motivating idea, not another commercial division.
+- **DadaNet** — related project/network concept whose exact current scope remains to be defined.
+
+**ONLY NAKEBUSEN TRANSACTS.** No shaving or braiding. Current Eldoret campaign: Retouch & Styling KES 700; Artificial Locs Installation KES 3,500. Linguistic claims about Genje, Za, Warena and Genjeness must distinguish documented usage from intended brand meaning. Technical claims must distinguish plans from verified implementations.
+
+See the [canonical architecture and decision register](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
