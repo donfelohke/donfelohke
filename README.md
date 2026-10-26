@@ -2,42 +2,46 @@
 
 # Feloh Warena 🇰🇪
 
-**Don Feloh** · **Felix Lwova** · **@donfelohke** · **#HisGenjeness** · **#BaddieFahmr**
+**Don Feloh** · **Felix Lwova** · **@donfelohke** · **#HisGenjeness**
 
-`#LibreSource` · E-Genge & Laban · `#NotYetUhuru` · NAKEBUSEN · Warena · **GRACE·GRIT·GLORY** 🌍💻
+`#LibreSource` · E-Genge & Laban · `#NotYetUhuru` · **GRACE · GRIT · GLORY**
 
 Loctician · GNU/Linux systems · Algorave / Genge · Choreohacker  
 **GENJE ZA WARENA** — *The Fire of the Formidable*  
-**ONLY NAKEBUSEN TRANSACTS.** · The human remains author.
+**The human remains the author.**
 
 </div>
 
 ---
 
-### Presence — verified public accounts
+### Presence
 
-| Platform | Handle / page | Notes |
+| Platform | Account | Role |
 |:--|:--|:--|
-| **Website** | [donfelohke.github.io](https://donfelohke.github.io) | Portfolio · services · enquiry |
-| **X** | [@donfelohke](https://x.com/donfelohke) | Feloh Warena · Lodwar · public voice |
-| **Instagram** | [@donfelohke](https://www.instagram.com/donfelohke/) | GNU/Linux · Algorave · locs · #BaddieFahmr |
-| **TikTok** | [@donfelohke](https://www.tiktok.com/@donfelohke) | NAKEBUSEN locs & nails · Turkana craft |
-| **Facebook (person)** | [Don Feloh](https://www.facebook.com/people/Don-Feloh/pfbid02tWGqt1NJiMnPPFZv33bJQWsySV15MxjbuSXvVjwnxAHCPMTkARm6EDL2c4kGb5cil/) | Founder / CTO · movement research |
-| **Facebook (business)** | [Nakebusen 023 Beauty Lounge](https://www.facebook.com/p/Nakebusen-023-Beauty-Lounge-61558789500287/) | Locs & nail care · Lodwar |
+| **Website** | [donfelohke.github.io](https://donfelohke.github.io) | NAKEBUSEN Locs · Digital · enquiry |
+| **X** | [@donfelohke](https://x.com/donfelohke) | Public voice · culture · Genge |
+| **Instagram** | [@donfelohke](https://www.instagram.com/donfelohke/) | Arts · GNU/Linux · locs |
+| **TikTok** | [@donfelohke](https://www.tiktok.com/@donfelohke) | Locs · nails · craft |
+| **Facebook (person)** | [Don Feloh](https://www.facebook.com/people/Don-Feloh/pfbid02tWGqt1NJiMnPPFZv33bJQWsySV15MxjbuSXvVjwnxAHCPMTkARm6EDL2c4kGb5cil/) | Founder path |
+| **Facebook (business)** | [Nakebusen 023 Beauty Lounge](https://www.facebook.com/p/Nakebusen-023-Beauty-Lounge-61558789500287/) | Locs & nail care |
 | **GitHub** | [donfelohke](https://github.com/donfelohke) | Code · corpus · systems |
-| **WhatsApp** | [0719 635 415](https://wa.me/254719635415) | Enquiry / booking path |
-
-**Pinterest:** no verified public profile found under donfelohke / NAKEBUSEN / Feloh Warena (search 25 Oct 2026).
+| **WhatsApp** | [+254 719 635 415](https://wa.me/254719635415) | Enquiry path |
 
 ---
 
-### NAKEBUSEN — GRACE (transacting enterprise)
+### NAKEBUSEN — Locs · Digital
 
-**Nakebusen 023 Beauty Lounge** · Kanamkemer / Lodwar, Turkana · Salon · Home · Call  
-Phone **0719 635 415** · M-Pesa  
-Loc retwists · Sisterlocs · Artificial & natural locs · Gel nails · Manicure / pedicure  
-Public starting prices on [site](https://donfelohke.github.io) and Facebook; final quote before work.  
-**Enquiry ≠ booking.**
+**Parent enterprise.** Customer-facing services only through NAKEBUSEN.
+
+| Path | What |
+|:--|:--|
+| **Locs** | Natural loc care, retouch, Sisterlocs, artificial installation — Eldoret Town / Karibu Mdosi campaign |
+| **Digital** | GNU/Linux, workstations, networking, local-first systems — **powered by WARENA** |
+
+**Starting prices (Locs, as published):** From **KES 700** · **KES 1,500** · **KES 3,500**  
+Final cost depends on service, condition and materials. **An enquiry is not a confirmed booking.**
+
+No shaving or braiding on the public catalogue.
 
 ---
 
@@ -45,9 +49,9 @@ Public starting prices on [site](https://donfelohke.github.io) and Facebook; fin
 
 | | Domain | Practice |
 |:--|:--|:--|
-| **GRACE** | [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Locs · nails · beauty craft · livelihood |
-| **GRIT** | [WARENA](https://github.com/donfelohke/WARENA) | GNU/Linux · local-first · infrastructure |
-| **GLORY** | [Genje](https://github.com/donfelohke/Genje) | E-Genge · Algorave · Laban · choreohack |
+| **GRACE** | [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Beauty · craft · livelihood |
+| **GRIT** | [WARENA](https://github.com/donfelohke/WARENA) | Systems · infrastructure · freedom |
+| **GLORY** | [Genje](https://github.com/donfelohke/Genje) · #HisGenjeness | Authorship · Genge · embodiment |
 
 ---
 
@@ -56,12 +60,13 @@ Public starting prices on [site](https://donfelohke.github.io) and Facebook; fin
 | Repo | Role |
 |:--|:--|
 | [donfelohke.github.io](https://donfelohke.github.io) | Public website |
-| [feloh-corpus](https://github.com/donfelohke/feloh-corpus) | Canon · governance · brand |
-| [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Enterprise · only transactor |
-| [WARENA](https://github.com/donfelohke/WARENA) | Systems · reproducibility |
+| [feloh-corpus](https://github.com/donfelohke/feloh-corpus) | Canon · governance · evidence standards |
+| [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Enterprise docs · only commercial interface |
+| [WARENA](https://github.com/donfelohke/WARENA) | Systems docs · stack register · runbooks |
 | [Genje](https://github.com/donfelohke/Genje) | Creative practice |
-| [Ikai](https://github.com/donfelohke/Ikai) | Reflective compute (research, not product) |
+| [Ikai](https://github.com/donfelohke/Ikai) | Reflective compute — **research, not a product** |
 | [Gallery](https://github.com/donfelohke/Gallery) | Assets · rights · approval first |
+| [donfelohke](https://github.com/donfelohke/donfelohke) | This profile README |
 
 ```text
 FELOH generates.  NAKEBUSEN grounds.  IKAI reflects.
@@ -71,47 +76,19 @@ ONE CORPUS → MANY VIEWS → ONE PRACTICE
 
 ---
 
-### Background (public self-description)
+### Evidence discipline
 
-Facebook About lists: Founder & CTO, Nakebusen 023 Beauty Lounge · movement research associations (ICKL / Laban–Bartenieff, as stated there) · Chuka University · Chavakali High School.  
-Treat education and institutional affiliations as **self-reported on Facebook** until independently verified for formal bios.
+Documentation is not deployment. Upstream version existence is not a live host.  
+WARENA: [STACK-REGISTER](https://github.com/donfelohke/WARENA/blob/main/docs/STACK-REGISTER.md) · [evidence audit](https://github.com/donfelohke/WARENA/blob/main/docs/REPOSITORY-EVIDENCE-AUDIT-2026-10-26.md)  
+Corpus: [evidence standards](https://github.com/donfelohke/feloh-corpus/blob/main/EVIDENCE-AND-EDITORIAL-STANDARDS.md)
+
+Education and institutional affiliations appearing on social profiles are **self-reported** until independently verified for formal bios.
 
 ---
 
 ### Contact
 
-**Lodwar · Turkana** (roots / salon) · **Eldoret · Uasin Gishu** (practice) · Kenya  
-**WhatsApp [0719 635 415](https://wa.me/254719635415)** · **@donfelohke** on X · Instagram · TikTok
+**Eldoret · Uasin Gishu** (current loc-care / practice messaging) · **Lodwar · Turkana** (roots / salon references) · Kenya  
+**WhatsApp [+254 719 635 415](https://wa.me/254719635415)** · **@donfelohke**
 
----
-
-## Canonical architecture update — 2026-10-26
-
-Current system map:
-
-- **FELOH** — human author and integrated practice.
-- **NAKEBUSEN** — parent enterprise and only commercial/transaction interface.
-- **NAKEBUSEN LOCS** — loc craft and relevant beauty services.
-- **NAKEBUSEN DIGITAL** — digital division; **WARENA** is its technical identity.
-- **WARENA Systems** — systems engineering and infrastructure.
-- **IKAI Mirror** — reflective-computing research; not a released product.
-- **GENJE ZA WARENA — THE FIRE OF THE FORMIDABLE** — current NIA naming, cultural identity and motivating idea, not another commercial division.
-- **DadaNet** — related project/network concept whose exact current scope remains to be defined.
-
-**ONLY NAKEBUSEN TRANSACTS.** No shaving or braiding. Current Eldoret campaign: Retouch & Styling KES 700; Artificial Locs Installation KES 3,500. Linguistic claims about Genje, Za, Warena and Genjeness must distinguish documented usage from intended brand meaning. Technical claims must distinguish plans from verified implementations.
-
-See the [canonical architecture and decision register](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md).
-
----
-
-## Cross-repository documentation contract
-
-This repository is the **Public profile** domain in the FELOH ecosystem. Keep its README specific to this repository's actual contents; use the [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) for shared terminology, architecture decisions, evidence standards and cross-domain governance.
-
-- **Be precise about status.** Distinguish implemented and tested work from proposals, research, concepts and historical material. A plan, specification, directory or commit is not proof of a deployed or independently verified capability.
-- **Link to the source of truth.** Prefer links to maintained documentation over duplicated long-form policy. When shared terminology or architecture changes, update the corpus first or alongside the affected domain documentation.
-- **Protect people and rights.** Do not commit credentials, private customer records, confidential operational details, unlicensed creative assets or material lacking required consent. Record provenance and permissions for published assets and research material.
-- **Keep responsibilities clear.** FELOH is the human author and integrated practice; NAKEBUSEN is the sole customer-facing transacting enterprise; WARENA enables systems and infrastructure; IKAI remains reflective-compute research unless release evidence establishes otherwise; GENJE embodies creative and movement practice. Gallery holds curated assets, while the public website presents approved information.
-- **Make changes reviewable.** Prefer focused branches and pull requests, document meaningful decisions, and report checks actually run. Do not claim tests, deployment, approval or release unless there is evidence.
-
-Canonical relationship: **FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.**
+Canonical architecture: [feloh-corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md)
