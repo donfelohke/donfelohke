@@ -68,12 +68,6 @@ No shaving or braiding on the public catalogue.
 | [Gallery](https://github.com/donfelohke/Gallery) | Assets · rights · approval first |
 | [donfelohke](https://github.com/donfelohke/donfelohke) | This profile README |
 
-```text
-FELOH generates.  NAKEBUSEN grounds.  IKAI reflects.
-WARENA enables.   GENJE embodies.
-ONE CORPUS → MANY VIEWS → ONE PRACTICE
-```
-
 ---
 
 ### Evidence discipline
