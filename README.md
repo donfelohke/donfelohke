@@ -35,7 +35,7 @@ Loctician · GNU/Linux systems · Algorave / Genge · Choreohacker
 
 | Path | What |
 |:--|:--|
-| **Locs** | Natural loc care, retouch, Sisterlocs, artificial installation — Eldoret Town / Karibu Mdosi campaign |
+| **Locs** | Natural loc care, retouch, Sisterlocs, artificial installation — **Eldoret Town / Karibu Mdosi** |
 | **Digital** | GNU/Linux, workstations, networking, local-first systems — **powered by WARENA** |
 
 **Starting prices (Locs, as published):** From **KES 700** · **KES 1,500** · **KES 3,500**  
@@ -70,31 +70,35 @@ No shaving or braiding on the public catalogue.
 
 ---
 
+### Portfolio architecture
+
+- **NAKEBUSEN** — beauty and digital services; the only commercial interface.
+- **WARENA** — systems engineering, reproducibility and local-first infrastructure. *Freedom Is a System.*
+- **IKAI** — reflective compute research; mirror, not judge; not a released product.
+- **GENJE** — Genge-rooted creative practice, culture, movement and choreohacking.
+- **FELOH corpus** — canonical terminology, governance, provenance and evidence standards.
+- **Gallery** — curated assets with explicit approval and provenance.
+
+**Canon:** FELOH generates · NAKEBUSEN grounds · IKAI reflects · WARENA enables · GENJE embodies.  
+**The human remains the author.** Route commercial enquiries through NAKEBUSEN. Keep public claims aligned with verifiable implementation.
+
+---
+
 ### Evidence discipline
 
 Documentation is not deployment. Upstream version existence is not a live host.  
 WARENA: [STACK-REGISTER](https://github.com/donfelohke/WARENA/blob/main/docs/STACK-REGISTER.md) · [evidence audit](https://github.com/donfelohke/WARENA/blob/main/docs/REPOSITORY-EVIDENCE-AUDIT-2026-10-26.md)  
 Corpus: [evidence standards](https://github.com/donfelohke/feloh-corpus/blob/main/EVIDENCE-AND-EDITORIAL-STANDARDS.md)
 
-Education and institutional affiliations appearing on social profiles are **self-reported** until independently verified for formal bios.
+Education and institutional affiliations on social profiles are **self-reported** until independently verified for formal bios.
 
 ---
 
 ### Contact
 
-**Eldoret · Uasin Gishu** (current loc-care / practice messaging) · **Lodwar · Turkana** (roots / salon references) · Kenya  
+**Eldoret · Uasin Gishu** (current loc-care messaging) · **Lodwar · Turkana** (roots) · Kenya  
 **WhatsApp [+254 719 635 415](https://wa.me/254719635415)** · **@donfelohke**
 
 Canonical architecture: [feloh-corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md)
 
-
-### Portfolio architecture
-
-- **NAKEBUSEN** — beauty and digital services; the only commercial interface.
-- **WARENA** — systems engineering, reproducibility and local-first infrastructure. *Freedom Is a System.*
-- **IKAI** — reflective compute research; mirror, not judge; not yet a released product.
-- **GENJE** — Genge-rooted creative practice, culture, movement and choreohacking.
-- **FELOH corpus** — canonical terminology, governance, provenance and evidence standards.
-- **Gallery** — curated assets with explicit approval and provenance.
-
-**Canon:** FELOH generates · NAKEBUSEN grounds · IKAI reflects · WARENA enables · GENJE embodies. The human remains the author. Keep public claims aligned with verifiable implementation and route commercial enquiries through NAKEBUSEN.
+*Profile README last aligned: 27 October 2026.*
