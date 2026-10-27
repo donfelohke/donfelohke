@@ -86,3 +86,15 @@ Education and institutional affiliations appearing on social profiles are **self
 **WhatsApp [+254 719 635 415](https://wa.me/254719635415)** · **@donfelohke**
 
 Canonical architecture: [feloh-corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md)
+
+
+### Portfolio architecture
+
+- **NAKEBUSEN** — beauty and digital services; the only commercial interface.
+- **WARENA** — systems engineering, reproducibility and local-first infrastructure. *Freedom Is a System.*
+- **IKAI** — reflective compute research; mirror, not judge; not yet a released product.
+- **GENJE** — Genge-rooted creative practice, culture, movement and choreohacking.
+- **FELOH corpus** — canonical terminology, governance, provenance and evidence standards.
+- **Gallery** — curated assets with explicit approval and provenance.
+
+**Canon:** FELOH generates · NAKEBUSEN grounds · IKAI reflects · WARENA enables · GENJE embodies. The human remains the author. Keep public claims aligned with verifiable implementation and route commercial enquiries through NAKEBUSEN.
