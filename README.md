@@ -92,7 +92,7 @@ Education and institutional affiliations appearing on social profiles are **self
 **Eldoret · Uasin Gishu** (current loc-care / practice messaging) · **Lodwar · Turkana** (roots / salon references) · Kenya  
 **WhatsApp [+254 719 635 415](https://wa.me/254719635415)** · **@donfelohke**
 
-Canonical architecture: [feloh-corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md)
+Current portfolio decision: [FELOH corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/portfolio-decision-2026-10-31.md) · Historical architecture baseline: [2026-10-26](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md)
 
 ---
 
