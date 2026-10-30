@@ -6,6 +6,9 @@
 
 `#LibreSource` · E-Genge & Laban · `#NotYetUhuru` · **GRACE · GRIT · GLORY**
 
+**NAKEBUSEN — Beautiful Roots. Sovereign Systems.**  
+*Craft, technology and culture rooted in African ingenuity.*
+
 Loctician · GNU/Linux systems · Algorave / Genge · Choreohacker  
 **GENJE ZA WARENA** — *The Fire of the Formidable*  
 **The human remains the author.**
@@ -54,6 +57,10 @@ No shaving or braiding on the public catalogue.
 | **GLORY** | [Genje](https://github.com/donfelohke/Genje) · #HisGenjeness | Authorship · Genge · embodiment |
 
 ---
+
+### Current portfolio identity
+
+See [Portfolio Identity Reference (2026-10-31)](PORTFOLIO-IDENTITY-2026-10-31.md) for the current enterprise, creative, systems and research boundaries.
 
 ### Repositories
 
