@@ -87,6 +87,7 @@ Education and institutional affiliations appearing on social profiles are **self
 
 Canonical architecture: [feloh-corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/canonical-architecture-2026-10-26.md)
 
+---
 
 ### Portfolio architecture
 
