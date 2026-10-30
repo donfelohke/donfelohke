@@ -41,7 +41,7 @@ Loctician · GNU/Linux systems · Algorave / Genge · Choreohacker
 | **Locs** | Natural loc care, retouch, Sisterlocs, artificial installation — Eldoret Town / Karibu Mdosi campaign |
 | **Digital** | GNU/Linux, workstations, networking, local-first systems — **powered by WARENA** |
 
-**Starting prices (Locs, as published):** From **KES 700** · **KES 1,500** · **KES 3,500**  
+**Starting prices (Locs, as published):** From **KES 700+** · **KES 1,500+** · **KES 3,500+**  
 Final cost depends on service, condition and materials. **An enquiry is not a confirmed booking.**
 
 No shaving or braiding on the public catalogue.
