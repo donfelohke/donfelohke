@@ -106,3 +106,9 @@ Current portfolio decision: [FELOH corpus](https://github.com/donfelohke/feloh-c
 - **Gallery** — curated assets with explicit approval and provenance.
 
 **Canon:** FELOH generates · NAKEBUSEN grounds · IKAI reflects · WARENA enables · GENJE embodies. The human remains the author. Keep public claims aligned with verifiable implementation and route commercial enquiries through NAKEBUSEN.
+
+---
+
+## Before Africa — research programme
+
+A cross-repository research programme on African self-naming, existence, governance, knowledge and cultural memory. The public website is not part of this update. [Read the research index](docs/BEFORE-AFRICA-RESEARCH-INDEX-2026-11-07.md).
