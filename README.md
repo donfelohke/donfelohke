@@ -112,3 +112,7 @@ Current portfolio decision: [FELOH corpus](https://github.com/donfelohke/feloh-c
 ## Before Africa — research programme
 
 A cross-repository research programme on African self-naming, existence, governance, knowledge and cultural memory. The public website is not part of this update. [Read the research index](docs/BEFORE-AFRICA-RESEARCH-INDEX-2026-11-07.md).
+
+### Systems research — desktop stack (2026-11)
+
+WARENA's current research direction: GNU Guix + RDE foundation; Niri + Noctalia v5 practical desktop candidate; Sway fallback baseline; dwl-guile experimental; Nix/NixOS comparator. This is not a claim of deployment. [Read the technical decision](https://github.com/donfelohke/WARENA/blob/main/docs/desktop-stack-decision-2026-11.md) · [Cross-project alignment](https://github.com/donfelohke/feloh-corpus/blob/main/docs/desktop-stack-alignment-2026-11.md).
