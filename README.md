@@ -1,22 +1,55 @@
 # Feloh Warena 🇰🇪
 
-**Don Feloh · Felix Lwova · @donfelohke · #HisGenjeness**
+**Felix Lwova · Don Feloh · @donfelohke · #HisGenjeness**
 
-Human author working across loc craft, systems engineering, research and Genge-rooted creative practice.
+Human author · systems engineering · loc craft · Genge-rooted creative practice
 
-Kenya · **NAKEBUSEN** — beauty and digital enterprise · **WARENA** — systems engineering.
+**NAKEBUSEN** — beauty and digital enterprise  
+**WARENA** — systems engineering and local-first infrastructure  
+**Signature:** GRACE · GRIT · GLORY
 
-Current work: GNU Guix / RDE and local-first infrastructure; **IKAI** reflective-compute research; **GENJE** livecoding, movement and creative practice.
+Kenya · Eldoret campaign focus · Turkana roots
+
+---
 
 ## Selected work
 
-- [NAKEBUSEN website](https://donfelohke.github.io/) — public enterprise site · **PUBLIC SITE**
-- [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) — locs and digital enterprise · **DOCUMENTATION**
-- [WARENA](https://github.com/donfelohke/WARENA) — systems engineering and reproducibility · **RESEARCH / DOCUMENTATION**
-- [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) — shared canon, governance and evidence · **SOURCE OF RECORD**
-- [IKAI](https://github.com/donfelohke/Ikai) — reflective compute · **RESEARCH**
-- [GENJE](https://github.com/donfelohke/Genje) — Genge-rooted creative practice · **CREATIVE PRACTICE**
+These six entries are a curated portfolio index, not the complete repository inventory.
 
-Commercial enquiries route through **NAKEBUSEN**. Documentation is not deployment; research is not a released product. The human remains the author.
+| # | Project | Role | Maturity |
+|---|---------|------|----------|
+| 01 | [NAKEBUSEN website](https://donfelohke.github.io/) | Public enterprise site | **PUBLIC** |
+| 02 | [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Locs + Digital enterprise documentation | **DOCUMENTATION** |
+| 03 | [WARENA](https://github.com/donfelohke/WARENA) | Systems engineering, reproducibility, stack register | **RESEARCH / DOCUMENTATION** |
+| 04 | [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) | Shared canon, governance, evidence standards | **SOURCE OF RECORD** |
+| 05 | [IKAI](https://github.com/donfelohke/Ikai) | Reflective-compute research | **RESEARCH** |
+| 06 | [GENJE](https://github.com/donfelohke/Genje) | Genge-rooted creative practice, livecoding, movement | **PRACTICE** |
 
-[Website](https://donfelohke.github.io/) · [GitHub](https://github.com/donfelohke) · [WhatsApp](https://wa.me/254719635415)
+---
+
+## Practice & evidence
+
+- Documentation is not deployment.  
+- Research is not a released product.  
+- Enquiry is not a confirmed booking.  
+- The human remains the author.
+
+**ONLY NAKEBUSEN TRANSACTS.**
+
+WARENA, IKAI and GENJE are not commercial entry points.
+
+Loc starting prices (Eldoret campaign):  
+Retouch & Styling from KES 700+ · LOCS Retie from KES 1,500+ · Artificial Locs Installation from KES 3,500+.
+
+---
+
+## Contact
+
+- **Website** — [donfelohke.github.io](https://donfelohke.github.io/)  
+- **WhatsApp / telephone** — [+254 719 635 415](https://wa.me/254719635415)  
+- **Email** — mela9ine@proton.me  
+- **Social** — [@donfelohke](https://x.com/donfelohke) (X · Instagram · TikTok)
+
+---
+
+*ONE CORPUS → MANY VIEWS → ONE PRACTICE*
