@@ -19,3 +19,6 @@ This file does not grant a software or content licence to the profile README or 
 ## Portfolio provenance and authorship integrity
 
 Portfolio claims must distinguish personal authorship, collaboration, upstream contribution, AI assistance, research and implementation. Do not present an AI rewrite of another person's code, a copied template or a derivative project as original work. Link substantial project claims to repositories, commits, releases or other evidence; identify upstream projects and collaborators where relevant. Do not use similarity scores, generated explanations or polished prose as proof of originality. If authorship or rights are disputed or uncertain, qualify or withhold the claim until reviewed.
+
+
+For the portfolio, **code laundering** means concealing that a project or contribution was copied, transformed from restricted material, or materially derived from another author's work. AI rewriting, renamed files and stylistic changes do not make it original authorship.
