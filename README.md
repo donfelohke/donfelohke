@@ -29,9 +29,9 @@ These six entries are a curated portfolio index, not the complete repository inv
 
 ## Practice & evidence
 
-- Documentation is not deployment.  
-- Research is not a released product.  
-- Enquiry is not a confirmed booking.  
+- Documentation is not deployment.
+- Research is not a released product.
+- Enquiry is not a confirmed booking.
 - The human remains the author.
 
 **ONLY NAKEBUSEN TRANSACTS.**
@@ -43,11 +43,17 @@ Retouch & Styling from KES 700+ · LOCS Retie from KES 1,500+ · Artificial Locs
 
 ---
 
+## Governance and provenance
+
+The [FELOH Corpus AI-Assisted Development and Source Integrity policy](https://github.com/donfelohke/feloh-corpus/blob/main/AI-ASSISTED-DEVELOPMENT.md) documents source attribution, lawful AI assistance, human review, licensing boundaries and provenance expectations across the repository ecosystem.
+
+---
+
 ## Contact
 
-- **Website** — [donfelohke.github.io](https://donfelohke.github.io/)  
-- **WhatsApp / telephone** — [+254 719 635 415](https://wa.me/254719635415)  
-- **Email** — mela9ine@proton.me  
+- **Website** — [donfelohke.github.io](https://donfelohke.github.io/)
+- **WhatsApp / telephone** — [+254 719 635 415](https://wa.me/254719635415)
+- **Email** — mela9ine@proton.me
 - **Social** — [@donfelohke](https://x.com/donfelohke) (X · Instagram · TikTok)
 
 ---
