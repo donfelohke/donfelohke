@@ -22,10 +22,16 @@ These six entries are a curated portfolio index, not the complete repository inv
 | 02 | [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Locs + Digital enterprise documentation | **DOCUMENTATION** |
 | 03 | [WARENA](https://github.com/donfelohke/WARENA) | Systems engineering, reproducibility, stack register | **RESEARCH / DOCUMENTATION** |
 | 04 | [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) | Shared canon, governance, evidence standards | **SOURCE OF RECORD** |
-| 05 | [IKAI](https://github.com/donfelohke/Ikai) | Reflective-compute research | **RESEARCH** |
-| 06 | [GENJE](https://github.com/donfelohke/Genje) | Genge-rooted creative practice, livecoding, movement | **PRACTICE** |
+| 05 | [IKAI](https://github.com/donfelohke/Ikai) | Reflective compute · mirror · voice/AR wearable architecture | **RESEARCH** |
+| 06 | [GENJE](https://github.com/donfelohke/Genje) | Genge · livecoding · kinetics · choreography | **RESEARCH / PRACTICE** |
 
 ---
+
+## Current research pointers
+
+- [IKAI — Voice, Smart Glasses & Distributed Reflective Computing](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-VOICE-GLASSES-DISTRIBUTED-ARCHITECTURE-2026-11-18.md) — research architecture; not a released wearable product.
+- [GENJE — Kinetics, Livecoding & Reflective Interaction](https://github.com/donfelohke/Genje/blob/main/docs/KINETICS-LIVECODING-AND-IKAI-INTERACTION-2026-11-18.md) — creative systems framework; no motion-capture implementation claimed.
+- [WARENA — IKAI Wearable Platform Integration](https://github.com/donfelohke/WARENA/blob/main/docs/IKAI-WEARABLE-PLATFORM-INTEGRATION-2026-11-18.md) — infrastructure research and qualification gates.
 
 ## Practice & evidence
 
