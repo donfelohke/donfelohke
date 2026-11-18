@@ -14,7 +14,7 @@ Kenya · Eldoret campaign focus · Turkana roots
 
 ## Selected work
 
-These six entries are a curated portfolio index, not the complete repository inventory.
+These six entries are a curated portfolio index, not the complete repository inventory. Domain repositories remain the source of implementation detail; the FELOH Corpus remains the source of shared canon and evidence standards.
 
 | # | Project | Role | Maturity |
 |---|---------|------|----------|
@@ -39,7 +39,7 @@ These six entries are a curated portfolio index, not the complete repository inv
 WARENA, IKAI and GENJE are not commercial entry points.
 
 Loc starting prices (Eldoret campaign):  
-Retouch & Styling from KES 700+ · LOCS Retie from KES 1,500+ · Artificial Locs Installation from KES 3,500+.
+Retouch & Styling from KES 700+ · Sisterlocs Retie from KES 1,500+ · Artificial Locs Installation from KES 3,500+.
 
 ---
 
