@@ -85,3 +85,7 @@ The [FELOH Corpus AI-Assisted Development and Source Integrity policy](https://g
 ## African philosophy and knowledge traditions
 
 - [Henry Odera Oruka — Sage Philosophy & Philosophic Sagacity](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md) — Kenyan Sage Philosophy Project, individual critical reasoning, oral dialogue, scholarly debates and research ethics. **RESEARCH**; canonical home: FELOH Corpus.
+
+## WARENA — Agentic Operating Environment
+
+- [RENAISSANCE BLACK OPS — WARENA Agentic Operating Environment & GNU Hurd Research](https://github.com/donfelohke/WARENA/blob/main/docs/AGENTIC-OPERATING-ENVIRONMENT-GNU-HURD-RESEARCH-2026-11-20.md) — agentic OS research, human-governed authority, capability security, GNU Hurd/Mach, ChildHurd, Guile/Guix and staged Linux/Hurd development. **RESEARCH / PROPOSED ARCHITECTURE**; no implementation or deployment claimed.
