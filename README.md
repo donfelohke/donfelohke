@@ -4,8 +4,11 @@
 
 Human author · systems engineering · loc craft · Genge-rooted creative practice
 
-**NAKEBUSEN** — beauty and digital enterprise  
-**WARENA** — systems engineering and local-first infrastructure  
+**F3L0H / FELOH WARENA** — overarching human authorship and practice identity  
+**NAKEBUSEN / ROOT** — physical practice and only live commercial interface  
+**IKAI / MIRROR** — reflective-computing research  
+**GENJE / EXPRESSION** — creative and embodied practice  
+**WARENA / CAPABILITY** — systems engineering and local-first infrastructure  
 **Signature:** GRACE · GRIT · GLORY
 
 Kenya · Eldoret campaign focus · Turkana roots
@@ -14,7 +17,7 @@ Kenya · Eldoret campaign focus · Turkana roots
 
 ## Selected work
 
-These six entries are a curated portfolio index, not the complete repository inventory. Domain repositories remain the source of implementation detail; the FELOH Corpus remains the source of shared canon and evidence standards.
+These six entries are a curated portfolio index, not the complete repository inventory. The four practice domains are NAKEBUSEN / ROOT, IKAI / MIRROR, GENJE / EXPRESSION and WARENA / CAPABILITY. F3L0H is the overarching authorship identity, not a fifth domain. Domain repositories own specialist detail; the FELOH Corpus owns shared canon and evidence standards.
 
 | # | Project | Role | Maturity |
 |---|---------|------|----------|
@@ -42,7 +45,7 @@ These six entries are a curated portfolio index, not the complete repository inv
 
 **ONLY NAKEBUSEN TRANSACTS.**
 
-WARENA, IKAI and GENJE are not commercial entry points.
+NAKEBUSEN is the ROOT domain and only live commercial practice. WARENA, IKAI and GENJE are not separate commercial entry points.
 
 Loc starting prices (Eldoret campaign):  
 Retouch & Styling from KES 700+ · Sisterlocs Retie from KES 1,500+ · Artificial Locs Installation from KES 3,500+.
