@@ -59,8 +59,8 @@ WARENA's [spatial computing, immersive XR and opt-in AI architecture](https://gi
 
 NAKEBUSEN is the ROOT domain and only live commercial practice. WARENA, IKAI and GENJE are not separate commercial entry points.
 
-Loc starting prices (Eldoret campaign):  
-Retouch & Styling from KES 700+ · Sisterlocs Retie from KES 1,500+ · Artificial Locs Installation from KES 3,500+.
+Loc-care prices (Eldoret):  
+Retouch & Styling from KES 700+ · Sisterlocs Retie from KES 1,500+ · Artificial Locs Installation KES 3,500.
 
 ---
 
@@ -75,7 +75,7 @@ The [FELOH Corpus AI-Assisted Development and Source Integrity policy](https://g
 - **Website** — [donfelohke.github.io](https://donfelohke.github.io/)
 - **WhatsApp / telephone** — [+254 719 635 415](https://wa.me/254719635415)
 - **Email** — mela9ine@proton.me
-- **Social** — [@donfelohke](https://x.com/donfelohke) (X · Instagram · TikTok)
+- **X** — [@donfelohke](https://x.com/donfelohke)
 
 ---
 
