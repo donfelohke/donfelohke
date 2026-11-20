@@ -80,3 +80,8 @@ The [FELOH Corpus AI-Assisted Development and Source Integrity policy](https://g
 ---
 
 *ONE CORPUS → MANY VIEWS → ONE PRACTICE*
+
+
+## African philosophy and knowledge traditions
+
+- [Henry Odera Oruka — Sage Philosophy & Philosophic Sagacity](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md) — Kenyan Sage Philosophy Project, individual critical reasoning, oral dialogue, scholarly debates and research ethics. **RESEARCH**; canonical home: FELOH Corpus.
