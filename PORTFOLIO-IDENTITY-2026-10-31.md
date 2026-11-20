@@ -1,3 +1,7 @@
+> **SUPERSEDED — 2026-11-20.** This dated identity reference is retained for historical provenance. Its NAKEBUSEN-parent / WARENA-sub-brand hierarchy is no longer current. The governing identity and four-domain model is the [F3L0H Sovereign Master Corpus](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-SOVEREIGN-MASTER-CORPUS-2026-11-20.md).
+
+---
+
 # Portfolio Identity Reference — 2026-10-31
 
 **Human author:** Felix Lwova · Don Feloh · @donfelohke · #HisGenjeness
