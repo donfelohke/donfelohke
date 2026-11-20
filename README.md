@@ -32,9 +32,9 @@ These six entries are a curated portfolio index, not the complete repository inv
 
 ## Current research pointers
 
-- [IKAI — Voice, Smart Glasses & Distributed Reflective Computing](https://github.com/donfelohke/Ikai/pull/22) — research architecture; not a released wearable product.
-- [GENJE — Kinetics, Livecoding & Reflective Interaction](https://github.com/donfelohke/Genje/pull/22) — creative systems framework; no motion-capture implementation claimed.
-- [WARENA — IKAI Wearable Platform Integration](https://github.com/donfelohke/WARENA/pull/31) — infrastructure research and qualification gates.
+- [IKAI — Voice, Smart Glasses & Distributed Reflective Computing](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-VOICE-GLASSES-DISTRIBUTED-ARCHITECTURE-2026-11-18.md) — research architecture; not a released wearable product.
+- [GENJE — Kinetics, Livecoding & Reflective Interaction](https://github.com/donfelohke/Genje/blob/main/docs/KINETICS-LIVECODING-AND-IKAI-INTERACTION-2026-11-18.md) — creative systems framework; no motion-capture implementation claimed.
+- [WARENA — IKAI Wearable Platform Integration](https://github.com/donfelohke/WARENA/blob/main/docs/IKAI-WEARABLE-PLATFORM-INTEGRATION-2026-11-18.md) — infrastructure research and qualification gates.
 
 ## Practice & evidence
 
