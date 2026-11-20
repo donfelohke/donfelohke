@@ -37,6 +37,11 @@ These six entries are a curated portfolio index, not the complete repository inv
 - [WARENA — IKAI Wearable Platform Integration](https://github.com/donfelohke/WARENA/blob/main/docs/IKAI-WEARABLE-PLATFORM-INTEGRATION-2026-11-18.md) — infrastructure research and qualification gates.
 - [IKAI — NVIDIA XR AI Architecture Comparison](https://github.com/donfelohke/Ikai/blob/main/docs/NVIDIA-XR-AI-ARCHITECTURE-COMPARATIVE-STUDY-2026-11-18.md) — industrial reference only.
 
+
+## Spatial and immersive computing research
+
+WARENA's [spatial computing, immersive XR and opt-in AI architecture](https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md) is a research specification, not a deployed platform. IKAI owns reflective participant experience; GENJE owns embodied creative practice; WARENA owns infrastructure. AI is opt-in and disabled by default.
+
 ## Practice & evidence
 
 - Documentation is not deployment.
