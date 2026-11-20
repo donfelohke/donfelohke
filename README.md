@@ -38,6 +38,12 @@ These six entries are a curated portfolio index, not the complete repository inv
 - [IKAI — NVIDIA XR AI Architecture Comparison](https://github.com/donfelohke/Ikai/blob/main/docs/NVIDIA-XR-AI-ARCHITECTURE-COMPARATIVE-STUDY-2026-11-18.md) — industrial reference only.
 
 
+## Infrastructure, networking and systems research
+
+- [WARENA — Network, Federation & Payment Architecture](https://github.com/donfelohke/WARENA/blob/main/docs/NETWORK-FEDERATION-AND-PAYMENT-ARCHITECTURE-2026-11-20.md) — GNUnet, Reticulum, Pubstrate, Goblins, GNU Taler and Kenyan mobile-money boundaries.
+- [WARENA — Distributed Storage & AFS Comparison](https://github.com/donfelohke/WARENA/blob/main/docs/DISTRIBUTED-STORAGE-AFS-COMPARISON-2026-11-20.md) — OpenAFS and distributed storage alternatives.
+- [WARENA — GNU Hurd / Guix research](https://github.com/donfelohke/WARENA/blob/main/docs/research/gnu-hurd-nix-compatibility-and-cross-build-2026-11.md) — updated 64-bit Hurd and Childhurd status.
+
 ## Spatial and immersive computing research
 
 WARENA's [spatial computing, immersive XR and opt-in AI architecture](https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md) is a research specification, not a deployed platform. IKAI owns reflective participant experience; GENJE owns embodied creative practice; WARENA owns infrastructure. AI is opt-in and disabled by default.
