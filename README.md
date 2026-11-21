@@ -33,6 +33,7 @@ These six entries are a curated portfolio index, not the complete repository inv
 ## Current research pointers
 
 - [IKAI — Voice, Smart Glasses & Distributed Reflective Computing](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-VOICE-GLASSES-DISTRIBUTED-ARCHITECTURE-2026-11-18.md) — research architecture; not a released wearable product.
+- [IKAI — REFLECTION±: Light In, Light Out, Compute](https://github.com/donfelohke/Ikai/blob/main/docs/REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md) — bidirectional optical-computational research, real-time I/O, synchronisation and proposed experiments; no integrated system is claimed.
 - [GENJE — Kinetics, Livecoding & Reflective Interaction](https://github.com/donfelohke/Genje/blob/main/docs/KINETICS-LIVECODING-AND-IKAI-INTERACTION-2026-11-18.md) — creative systems framework; no motion-capture implementation claimed.
 - [WARENA — IKAI Wearable Platform Integration](https://github.com/donfelohke/WARENA/blob/main/docs/IKAI-WEARABLE-PLATFORM-INTEGRATION-2026-11-18.md) — infrastructure research and qualification gates.
 - [IKAI — NVIDIA XR AI Architecture Comparison](https://github.com/donfelohke/Ikai/blob/main/docs/NVIDIA-XR-AI-ARCHITECTURE-COMPARATIVE-STUDY-2026-11-18.md) — industrial reference only.
