@@ -39,6 +39,9 @@ These six entries are a curated portfolio index, not the complete repository inv
 - [IKAI — NVIDIA XR AI Architecture Comparison](https://github.com/donfelohke/Ikai/blob/main/docs/NVIDIA-XR-AI-ARCHITECTURE-COMPARATIVE-STUDY-2026-11-18.md) — industrial reference only.
 
 
+- [WARENA — Sovereign Movement Systems](https://github.com/donfelohke/WARENA/blob/main/docs/research/SOVEREIGN-MOVEMENT-SYSTEMS-RESEARCH-2026-11-21.md) — EV software, embedded systems, CAN, charging, nduthi/matatu operations, portable power and off-grid energy; research only.
+- [NAKEBUSEN — ROOT Operations and Compliance](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/ROOT-OPERATIONS-AND-COMPLIANCE-RESEARCH-2026-11-21.md) — eTIMS, ODPC applicability, customer data controls and county-verification questions; research only.
+
 ## Infrastructure, networking and systems research
 
 - [WARENA — Network, Federation & Payment Architecture](https://github.com/donfelohke/WARENA/blob/main/docs/NETWORK-FEDERATION-AND-PAYMENT-ARCHITECTURE-2026-11-20.md) — GNUnet, Reticulum, Pubstrate, Goblins, GNU Taler and Kenyan mobile-money boundaries.
