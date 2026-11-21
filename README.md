@@ -89,3 +89,8 @@ The [FELOH Corpus AI-Assisted Development and Source Integrity policy](https://g
 ## WARENA — Agentic Operating Environment
 
 - [RENAISSANCE BLACK OPS — WARENA Agentic Operating Environment & GNU Hurd Research](https://github.com/donfelohke/WARENA/blob/main/docs/AGENTIC-OPERATING-ENVIRONMENT-GNU-HURD-RESEARCH-2026-11-20.md) — agentic OS research, human-governed authority, capability security, GNU Hurd/Mach, ChildHurd, Guile/Guix and staged Linux/Hurd development. **RESEARCH / PROPOSED ARCHITECTURE**; no implementation or deployment claimed.
+
+
+## Repository upgrade plan
+
+See [the profile repository upgrade plan](docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md) for identity, portfolio and cross-repository maintenance gates.
