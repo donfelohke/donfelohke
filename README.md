@@ -16,7 +16,7 @@ Human author · systems engineering · loc craft · Genge-rooted creative practi
 
 Kenya · Eldoret campaign focus · Turkana roots  
 
-**NAKEBUSEN · Near King's Square, Kisumu Road, Eldoret:** [F743+R35 map pin](https://maps.app.goo.gl/QE9MTjQAUSx4DXGe6). Loc-care home calls may be arranged across the wider Eldoret Town service area, subject to confirmation of location, suitability, availability and travel costs.
+**NAKEBUSEN · Beside King's Square, Kisumu Road, Eldoret:** [F743+R35 map pin](https://maps.app.goo.gl/QE9MTjQAUSx4DXGe6). Loc-care home calls may be arranged across the wider Eldoret Town service area, subject to confirmation of location, suitability, availability and travel costs.
 
 ---
 
