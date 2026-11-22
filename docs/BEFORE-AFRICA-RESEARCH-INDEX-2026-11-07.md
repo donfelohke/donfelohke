@@ -42,3 +42,14 @@ Plurality, primary sources, African scholarship, linguistic precision, contextua
 **Master dossier:** https://github.com/donfelohke/feloh-corpus/blob/main/docs/before-africa-research-dossier-2026-11-07.md
 
 The public website repository is intentionally outside this research update.
+
+
+## BLACK HINTERLAND — programme update (22 November 2026)
+
+The integrated programme is now titled **BLACK HINTERLAND — BEFORE AFRICA**. The phrase identifies deep African population histories, ancestral landscapes and interior societies without treating hinterlands as empty or peripheral. The historical question reaches before the Roman regional use of the name Africa and traces the later expansion of the geographical term; it does not imply that the land or its peoples began with that name.
+
+The programme now explicitly connects deep time, ancestral geographies, peoples/languages/knowledge, civilisations and networks, the history of continental naming, colonial boundary-making, contemporary African realities and African futures. Modern racial classifications are not projected unchanged into prehistory.
+
+**Canonical dossier:** https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md
+**Evidence and sources:** https://github.com/donfelohke/feloh-corpus/blob/main/docs/research-briefs/before-africa-source-catalogue-2026-11.md
+**Maturity:** RESEARCH. This index does not claim a completed history, fieldwork, community consultation or statistical census.
