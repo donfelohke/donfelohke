@@ -98,3 +98,12 @@ The [FELOH Corpus AI-Assisted Development and Source Integrity policy](https://g
 ## Repository upgrade plan
 
 See [the profile repository upgrade plan](docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md) for identity, portfolio and cross-repository maintenance gates.
+
+
+
+## BLACK HINTERLAND — BEFORE AFRICA
+
+- [BLACK HINTERLAND — BEFORE AFRICA master dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md) — deep African time, ancestral geography, peoples and civilisations, the history of the name Africa, Balkanisation, Africa today and African futures to 2100.
+- [Before Africa research index](docs/BEFORE-AFRICA-RESEARCH-INDEX-2026-11-07.md) — portfolio-level routing and research boundaries.
+
+The Corpus is the source of record. This profile is a curated navigation view, not an independent historical authority.
