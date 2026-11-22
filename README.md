@@ -45,6 +45,9 @@ These six entries are a curated portfolio index, not the complete repository inv
 - [WARENA — Sovereign Movement Systems](https://github.com/donfelohke/WARENA/blob/main/docs/research/SOVEREIGN-MOVEMENT-SYSTEMS-RESEARCH-2026-11-21.md) — EV software, embedded systems, CAN, charging, nduthi/matatu operations, portable power and off-grid energy; research only.
 - [NAKEBUSEN — ROOT Operations and Compliance](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/ROOT-OPERATIONS-AND-COMPLIANCE-RESEARCH-2026-11-21.md) — eTIMS, ODPC applicability, customer data controls and county-verification questions; research only.
 
+- [IKAI — Mirror Systems, Cameras, Displays & Real-Time Bidirectional I/O](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-REALTIME-BIDIRECTIONAL-IO-AND-MIRROR-SYSTEMS-2026-11-22.md) — two-way mirror M1 candidate and optical/camera/display validation protocol; research only.
+- [WARENA — Real-Time Bidirectional I/O & Display Pipelines](https://github.com/donfelohke/WARENA/blob/main/docs/REALTIME-BIDIRECTIONAL-IO-AND-DISPLAY-PIPELINES-2026-11-22.md) — native device interfaces, synchronisation, latency/jitter, throughput and reproducible test sequence; research only.
+
 ## Infrastructure, networking and systems research
 
 - [WARENA — Network, Federation & Payment Architecture](https://github.com/donfelohke/WARENA/blob/main/docs/NETWORK-FEDERATION-AND-PAYMENT-ARCHITECTURE-2026-11-20.md) — GNUnet, Reticulum, Pubstrate, Goblins, GNU Taler and Kenyan mobile-money boundaries.
