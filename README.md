@@ -14,7 +14,9 @@ Human author · systems engineering · loc craft · Genge-rooted creative practi
 **WARENA / CAPABILITY** — systems engineering and local-first infrastructure  
 **Signature:** GRACE · GRIT · GLORY
 
-Kenya · Eldoret campaign focus · Turkana roots
+Kenya · Eldoret campaign focus · Turkana roots  
+
+**NAKEBUSEN · Eldoret directions:** [F743+R35, Google Maps](https://maps.app.goo.gl/QE9MTjQAUSx4DXGe6). Loc-care home calls may be arranged within the wider Eldoret Town area, subject to direct confirmation.
 
 ---
 
