@@ -1,5 +1,8 @@
 # Feloh Warena 🇰🇪
 
+> Current alignment: [Ecosystem update — 2026-11-22](docs/ECOSYSTEM-UPDATE-2026-11-22.md). This dated record supplements this README; it does not replace the canonical source documents.
+
+
 **Felix Lwova · Don Feloh · @donfelohke · #HisGenjeness**
 
 Human author · systems engineering · loc craft · Genge-rooted creative practice
