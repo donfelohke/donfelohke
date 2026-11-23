@@ -122,3 +122,8 @@ Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](http
 NAKEBUSEN is the primary enterprise and only transaction interface. WARENA is the distinct technical capability; GENJE is creative expression; IKAI remains research; Don Feloh is the human author. The shared ethos does not merge these domains into one business.
 
 See the [NAKEBUSEN × WARENA Brand Platform](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md) for the current canonical story and brand architecture.
+
+
+## Ecosystem alignment · 2026-11-24
+
+See [the alignment note](docs/ECOSYSTEM-ALIGNMENT-2026-11-24.md) for this repository's role, cross-project boundaries and documentation standards.
