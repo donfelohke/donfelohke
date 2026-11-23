@@ -110,3 +110,15 @@ For services and current contact routes, use the website.
 **ONLY NAKEBUSEN TRANSACTS.** The profile is an index to independent works, not a claim that every repository is a released product.
 
 Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
+
+
+## Current public identity lockup — 2026-11-24
+
+**NAKEBUSEN · WARENA POWERED**  
+**GRACE · GRIT · GLORY | GENJE ZA WARENA**  
+**BEAUTIFUL ROOTS. SOVEREIGN SYSTEMS.**  
+**@donfelohke · #HisGenjeness**
+
+NAKEBUSEN is the primary enterprise and only transaction interface. WARENA is the distinct technical capability; GENJE is creative expression; IKAI remains research; Don Feloh is the human author. The shared ethos does not merge these domains into one business.
+
+See the [NAKEBUSEN × WARENA Brand Platform](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-PLATFORM-2026-11-24.md) for the current canonical story and brand architecture.
