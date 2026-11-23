@@ -1,6 +1,8 @@
-# Feloh Warena 🇰🇪
+# F3L0H — #HisGenjeness
 
-**Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke) · [#HisGenjeness](https://x.com/donfelohke)**
+*Feloh Warena 🇰🇪*
+
+**Felix Lwova · Feloh Warena · Don Feloh · [@donfelohke](https://github.com/donfelohke)**
 
 Founder · CTO · Loctician · Creative Technologist  
 Kenya · Turkana roots · Eldoret practice
@@ -20,7 +22,7 @@ I build, document and maintain independent works across beauty craft, computing,
 | **IKAI · MIRROR** | Reflective computing, human-computer interaction, mirror systems and embodied interfaces. | [IKAI](https://github.com/donfelohke/Ikai) |
 | **GENJE · EXPRESSION** | Genge, livecoding, music, movement, kinetics and choreography. | [GENJE](https://github.com/donfelohke/Genje) |
 
-**FELOH / F3L0H** is the overarching human authorship identity. The **FELOH Corpus** is the shared canon, research and provenance record.
+**F3L0H** is the overarching human authorship identity; **#HisGenjeness** names its sovereign creative expression and public persona. Don Feloh is the human author connecting the practice domains. The **FELOH Corpus** is the shared canon, research and provenance record.
 
 > FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
 
