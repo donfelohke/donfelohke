@@ -1,117 +1,90 @@
 # Feloh Warena 🇰🇪
 
-> Current alignment: [Ecosystem update — 2026-11-22](docs/ECOSYSTEM-UPDATE-2026-11-22.md). This dated record supplements this README; it does not replace the canonical source documents.
+**Felix Lwova · Don Feloh · [@donfelohke](https://github.com/donfelohke) · [#HisGenjeness](https://x.com/donfelohke)**
 
+Founder · CTO · Loctician · Creative Technologist  
+Kenya · Turkana roots · Eldoret practice
 
-**Felix Lwova · Don Feloh · @donfelohke · #HisGenjeness**
+I build, document and maintain independent works across beauty craft, computing, reflective research and creative practice. This GitHub profile is the technical and research index for that work.
 
-Human author · systems engineering · loc craft · Genge-rooted creative practice
+**[Website](https://donfelohke.github.io/) · [X](https://x.com/donfelohke) · [FELOH Corpus](https://github.com/donfelohke/feloh-corpus)**
 
-**F3L0H / FELOH WARENA** — overarching human authorship and practice identity  
-**NAKEBUSEN / ROOT** — physical practice and only live commercial interface  
-**IKAI / MIRROR** — reflective-computing research  
-**GENJE / EXPRESSION** — creative and embodied practice  
-**WARENA / CAPABILITY** — systems engineering and local-first infrastructure  
-**Signature:** GRACE · GRIT · GLORY
+---
 
-Kenya · Eldoret campaign focus · Turkana roots  
+## One author · four practice domains
 
-**NAKEBUSEN · Beside King's Square, Kisumu Road, Eldoret:** [F743+R35 map pin](https://maps.app.goo.gl/QE9MTjQAUSx4DXGe6). Loc-care home calls may be arranged across the wider Eldoret Town service area, subject to confirmation of location, suitability, availability and travel costs.
+| Domain | Focus | Home |
+|---|---|---|
+| **NAKEBUSEN · ROOT** | Loc care, beauty, heritage, craft and dignity. The only live commercial practice. | [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) |
+| **WARENA · CAPABILITY** | Libre-first systems engineering, GNU/Linux, reproducible infrastructure and technological sovereignty. | [WARENA](https://github.com/donfelohke/WARENA) |
+| **IKAI · MIRROR** | Reflective computing, human-computer interaction, mirror systems and embodied interfaces. | [IKAI](https://github.com/donfelohke/Ikai) |
+| **GENJE · EXPRESSION** | Genge, livecoding, music, movement, kinetics and choreography. | [GENJE](https://github.com/donfelohke/Genje) |
+
+**FELOH / F3L0H** is the overarching human authorship identity. The **FELOH Corpus** is the shared canon, research and provenance record.
+
+> FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+
+**GRACE · GRIT · GLORY**
 
 ---
 
 ## Selected work
 
-These six entries are a curated portfolio index, not the complete repository inventory. The four practice domains are NAKEBUSEN / ROOT, IKAI / MIRROR, GENJE / EXPRESSION and WARENA / CAPABILITY. F3L0H is the overarching authorship identity, not a fifth domain. Domain repositories own specialist detail; the FELOH Corpus owns shared canon and evidence standards.
+These are curated entry points, not a claim that every project is a finished product.
 
-| # | Project | Role | Maturity |
-|---|---------|------|----------|
-| 01 | [NAKEBUSEN website](https://donfelohke.github.io/) | Public enterprise site | **PUBLIC** |
-| 02 | [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Locs + Digital enterprise documentation | **DOCUMENTATION** |
-| 03 | [WARENA](https://github.com/donfelohke/WARENA) | Systems engineering, reproducibility, stack register | **RESEARCH / DOCUMENTATION** |
-| 04 | [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) | Shared canon, governance, evidence standards | **SOURCE OF RECORD** |
-| 05 | [IKAI](https://github.com/donfelohke/Ikai) | Reflective compute · mirror · voice/AR wearable architecture | **RESEARCH** |
-| 06 | [GENJE](https://github.com/donfelohke/Genje) | Genge · livecoding · kinetics · choreography | **RESEARCH / PRACTICE** |
-
----
-
-## Current research pointers
-
-- [IKAI — Voice, Smart Glasses & Distributed Reflective Computing](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-VOICE-GLASSES-DISTRIBUTED-ARCHITECTURE-2026-11-18.md) — research architecture; not a released wearable product.
-- [IKAI — REFLECTION±: Light In, Light Out, Compute](https://github.com/donfelohke/Ikai/blob/main/docs/REFLECTION-PLUS-MINUS-LIGHT-IN-LIGHT-OUT-COMPUTE-RESEARCH-2026-11-21.md) — bidirectional optical-computational research, real-time I/O, synchronisation and proposed experiments; no integrated system is claimed.
-- [GENJE — Kinetics, Livecoding & Reflective Interaction](https://github.com/donfelohke/Genje/blob/main/docs/KINETICS-LIVECODING-AND-IKAI-INTERACTION-2026-11-18.md) — creative systems framework; no motion-capture implementation claimed.
-- [WARENA — IKAI Wearable Platform Integration](https://github.com/donfelohke/WARENA/blob/main/docs/IKAI-WEARABLE-PLATFORM-INTEGRATION-2026-11-18.md) — infrastructure research and qualification gates.
-- [IKAI — NVIDIA XR AI Architecture Comparison](https://github.com/donfelohke/Ikai/blob/main/docs/NVIDIA-XR-AI-ARCHITECTURE-COMPARATIVE-STUDY-2026-11-18.md) — industrial reference only.
-
-
-- [WARENA — Sovereign Movement Systems](https://github.com/donfelohke/WARENA/blob/main/docs/research/SOVEREIGN-MOVEMENT-SYSTEMS-RESEARCH-2026-11-21.md) — EV software, embedded systems, CAN, charging, nduthi/matatu operations, portable power and off-grid energy; research only.
-- [NAKEBUSEN — ROOT Operations and Compliance](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/ROOT-OPERATIONS-AND-COMPLIANCE-RESEARCH-2026-11-21.md) — eTIMS, ODPC applicability, customer data controls and county-verification questions; research only.
-
-- [IKAI — Mirror Systems, Cameras, Displays & Real-Time Bidirectional I/O](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-REALTIME-BIDIRECTIONAL-IO-AND-MIRROR-SYSTEMS-2026-11-22.md) — two-way mirror M1 candidate and optical/camera/display validation protocol; research only.
-- [WARENA — Real-Time Bidirectional I/O & Display Pipelines](https://github.com/donfelohke/WARENA/blob/main/docs/REALTIME-BIDIRECTIONAL-IO-AND-DISPLAY-PIPELINES-2026-11-22.md) — native device interfaces, synchronisation, latency/jitter, throughput and reproducible test sequence; research only.
-
-## Infrastructure, networking and systems research
-
-- [WARENA — Network, Federation & Payment Architecture](https://github.com/donfelohke/WARENA/blob/main/docs/NETWORK-FEDERATION-AND-PAYMENT-ARCHITECTURE-2026-11-20.md) — GNUnet, Reticulum, Pubstrate, Goblins, GNU Taler and Kenyan mobile-money boundaries.
-- [WARENA — Distributed Storage & AFS Comparison](https://github.com/donfelohke/WARENA/blob/main/docs/DISTRIBUTED-STORAGE-AFS-COMPARISON-2026-11-20.md) — OpenAFS and distributed storage alternatives.
-- [WARENA — GNU Hurd / Guix research](https://github.com/donfelohke/WARENA/blob/main/docs/research/gnu-hurd-nix-compatibility-and-cross-build-2026-11.md) — updated 64-bit Hurd and Childhurd status.
-
-## Spatial and immersive computing research
-
-WARENA's [spatial computing, immersive XR and opt-in AI architecture](https://github.com/donfelohke/WARENA/blob/main/docs/SPATIAL-COMPUTING-XR-AI-ARCHITECTURE-2026-11-20.md) is a research specification, not a deployed platform. IKAI owns reflective participant experience; GENJE owns embodied creative practice; WARENA owns infrastructure. AI is opt-in and disabled by default.
-
-## Practice & evidence
-
-- Documentation is not deployment.
-- Research is not a released product.
-- Enquiry is not a confirmed booking.
-- The human remains the author.
-
-**ONLY NAKEBUSEN TRANSACTS.**
-
-NAKEBUSEN is the ROOT domain and only live commercial practice. WARENA, IKAI and GENJE are not separate commercial entry points.
-
-Loc-care prices (Eldoret):  
-Retouch & Styling from KES 700+ · Sisterlocs Retie from KES 1,500+ · Artificial Locs Installation KES 3,500.
+| Project | What it holds | Status |
+|---|---|---|
+| [Personal website](https://donfelohke.github.io/) | Public identity hub and practice overview | **PUBLIC** |
+| [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) | Loc-care practice and enterprise documentation | **DOCUMENTATION** |
+| [WARENA](https://github.com/donfelohke/WARENA) | Systems engineering, infrastructure research and reproducibility | **RESEARCH / DOCUMENTATION** |
+| [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) | Shared canon, governance, sources and evidence standards | **SOURCE OF RECORD** |
+| [IKAI](https://github.com/donfelohke/Ikai) | Reflective-computing and mirror-system research | **RESEARCH** |
+| [GENJE](https://github.com/donfelohke/Genje) | Genge, livecoding, kinetics and embodied creative practice | **RESEARCH / PRACTICE** |
 
 ---
 
-## Governance and provenance
+## Current research
 
-The [FELOH Corpus AI-Assisted Development and Source Integrity policy](https://github.com/donfelohke/feloh-corpus/blob/main/AI-ASSISTED-DEVELOPMENT.md) documents source attribution, lawful AI assistance, human review, licensing boundaries and provenance expectations across the repository ecosystem.
+- **[BLACK HINTERLAND — BEFORE AFRICA](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md)** — African deep time, ancestral geographies, peoples and civilisations, historical naming, partition and futures to 2100. Canonical home: FELOH Corpus.
+- **[IKAI — Real-Time Bidirectional I/O and Mirror Systems](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-REALTIME-BIDIRECTIONAL-IO-AND-MIRROR-SYSTEMS-2026-11-22.md)** — optical systems, cameras, displays, synchronisation and experimental validation. Research only.
+- **[WARENA — Real-Time Bidirectional I/O and Display Pipelines](https://github.com/donfelohke/WARENA/blob/main/docs/REALTIME-BIDIRECTIONAL-IO-AND-DISPLAY-PIPELINES-2026-11-22.md)** — native interfaces, timing, latency, jitter, throughput and reproducible tests.
+- **[WARENA — Sovereign Movement Systems](https://github.com/donfelohke/WARENA/blob/main/docs/research/SOVEREIGN-MOVEMENT-SYSTEMS-RESEARCH-2026-11-21.md)** — embedded systems, mobility, energy and locally grounded infrastructure research.
+- **[Henry Odera Oruka — Sage Philosophy](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md)** — Kenyan philosophy, critical reasoning, oral dialogue and research ethics.
+- **[WARENA — Agentic Operating Environment and GNU Hurd](https://github.com/donfelohke/WARENA/blob/main/docs/AGENTIC-OPERATING-ENVIRONMENT-GNU-HURD-RESEARCH-2026-11-20.md)** — human-governed authority, capability security, Guile/Guix and operating-system research.
+
+Research documents are not deployment claims. Each specialist repository owns its technical detail; the FELOH Corpus owns shared canon and provenance.
 
 ---
 
-## Contact
+## More repositories
 
-- **Website** — [donfelohke.github.io](https://donfelohke.github.io/)
-- **WhatsApp / telephone** — [+254 719 635 415](https://wa.me/254719635415)
-- **Email** — mela9ine@proton.me
-- **X** — [@donfelohke](https://x.com/donfelohke)
+- [dwl-guile](https://github.com/donfelohke/dwl-guile) — Guile-oriented Wayland desktop work.
+- [home-service-dwl-guile](https://github.com/donfelohke/home-service-dwl-guile) — Guix Home integration.
+- [Gallery](https://github.com/donfelohke/Gallery) — curated visual archive; publication and approval boundaries apply.
+
+---
+
+## Working principles
+
+- **Human authorship:** people remain responsible for decisions, review and published work.
+- **Libre-first:** prefer free software, open standards and interoperable systems; GNU is foundational, not an exclusionary boundary.
+- **Local-first:** prioritise user control, privacy, offline capability and durable ownership.
+- **Do not recreate wheels:** evaluate existing research and projects, reuse where appropriate, and credit their creators.
+- **Reproducibility:** preserve sources, methods, versions and evidence so work can be inspected and repeated.
+- **Honest maturity labels:** distinguish research, documentation, prototypes, implementation and deployment.
+
+**ONLY NAKEBUSEN TRANSACTS.** WARENA, IKAI and GENJE are not separate commercial checkout or booking interfaces. An enquiry is not a confirmed booking.
+
+---
+
+## Connect
+
+- **Website:** [donfelohke.github.io](https://donfelohke.github.io/)
+- **GitHub:** [@donfelohke](https://github.com/donfelohke)
+- **X:** [@donfelohke](https://x.com/donfelohke)
+
+For services and current contact routes, use the website.
 
 ---
 
 *ONE CORPUS → MANY VIEWS → ONE PRACTICE*
-
-
-## African philosophy and knowledge traditions
-
-- [Henry Odera Oruka — Sage Philosophy & Philosophic Sagacity](https://github.com/donfelohke/feloh-corpus/blob/main/docs/ORUKA-SAGE-PHILOSOPHY-AND-PHILOSOPHIC-SAGACITY-2026-11-20.md) — Kenyan Sage Philosophy Project, individual critical reasoning, oral dialogue, scholarly debates and research ethics. **RESEARCH**; canonical home: FELOH Corpus.
-
-## WARENA — Agentic Operating Environment
-
-- [RENAISSANCE BLACK OPS — WARENA Agentic Operating Environment & GNU Hurd Research](https://github.com/donfelohke/WARENA/blob/main/docs/AGENTIC-OPERATING-ENVIRONMENT-GNU-HURD-RESEARCH-2026-11-20.md) — agentic OS research, human-governed authority, capability security, GNU Hurd/Mach, ChildHurd, Guile/Guix and staged Linux/Hurd development. **RESEARCH / PROPOSED ARCHITECTURE**; no implementation or deployment claimed.
-
-
-## Repository upgrade plan
-
-See [the profile repository upgrade plan](docs/REPOSITORY-UPGRADE-PLAN-2026-11-21.md) for identity, portfolio and cross-repository maintenance gates.
-
-
-
-## BLACK HINTERLAND — BEFORE AFRICA
-
-- [BLACK HINTERLAND — BEFORE AFRICA master dossier](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md) — deep African time, ancestral geography, peoples and civilisations, the history of the name Africa, Balkanisation, Africa today and African futures to 2100.
-- [Before Africa research index](docs/BEFORE-AFRICA-RESEARCH-INDEX-2026-11-07.md) — portfolio-level routing and research boundaries.
-
-The Corpus is the source of record. This profile is a curated navigation view, not an independent historical authority.
