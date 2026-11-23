@@ -88,3 +88,21 @@ For services and current contact routes, use the website.
 ---
 
 *ONE CORPUS → MANY VIEWS → ONE PRACTICE*
+
+## GRACE · GRIT · GLORY — identity constitution
+
+**DON FELOH / @donfelohke** is the human author connecting distinct practices.
+
+| Pillar | Identity | Meaning |
+|---|---|---|
+| GRACE | NAKEBUSEN | Beauty · Heritage · Craft · Dignity |
+| GRIT | WARENA | Freedom · Technology · Infrastructure · Independent works |
+| GLORY | DON FELOH | Human authorship · Expression · Becoming |
+
+**GENJE** is embodied creative expression: Genge, sound, livecoding, movement, choreography and livity. **IKAI** is reflective research: home, existence, memory and knowledge. The FELOH Corpus governs shared canon, evidence and provenance.
+
+**GENJE ZA WARENA | NAKEBUSEN** is the shared signature. It does not collapse the identities into one business.
+
+> FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+
+**ONLY NAKEBUSEN TRANSACTS.** The profile is an index to independent works, not a claim that every repository is a released product.
