@@ -39,3 +39,7 @@ The public website repository is a separate publication surface and was intentio
 - [Gallery](https://github.com/donfelohke/Gallery)
 - [dwl-guile](https://github.com/donfelohke/dwl-guile) · [home-service-dwl-guile](https://github.com/donfelohke/home-service-dwl-guile)
 - [Public website — excluded from this update](https://donfelohke.github.io/)
+
+## Shared brand reference
+
+The proposed [NAKEBUSEN × WARENA Brand Constitution v1.0](https://github.com/donfelohke/feloh-corpus/blob/main/docs/NAKEBUSEN-WARENA-BRAND-CONSTITUTION-v1.0-2026-11-24.md) is the shared narrative and messaging reference. Founder biography and public attribution should remain consistent with that source while preserving the distinction between founder-defined identity, verified facts and work-specific maturity.
