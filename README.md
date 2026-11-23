@@ -106,3 +106,5 @@ For services and current contact routes, use the website.
 > FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
 
 **ONLY NAKEBUSEN TRANSACTS.** The profile is an index to independent works, not a claim that every repository is a released product.
+
+Canonical identity specification: [FELOH Corpus — GRACE · GRIT · GLORY](https://github.com/donfelohke/feloh-corpus/blob/main/docs/GRACE-GRIT-GLORY-GENJE-ZA-WARENA-IDENTITY-SYSTEM-2026-11-23.md).
