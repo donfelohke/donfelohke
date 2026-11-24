@@ -13,18 +13,23 @@ I build, document and maintain independent works across beauty craft, computing,
 
 ---
 
-## One author · four practice domains
+## Five identities · one human author
 
-| Domain | Focus | Home |
+| Identity | Domain | Canonical home |
 |---|---|---|
-| **NAKEBUSEN · ROOT** | Loc care, beauty, heritage, craft and dignity. The only live commercial practice. | [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) |
-| **WARENA · CAPABILITY** | Libre-first systems engineering, GNU/Linux, reproducible infrastructure and technological sovereignty. | [WARENA](https://github.com/donfelohke/WARENA) |
-| **IKAI · MIRROR** | Reflective computing, human-computer interaction, mirror systems and embodied interfaces. | [IKAI](https://github.com/donfelohke/Ikai) |
-| **GENJE · EXPRESSION** | Genge, livecoding, music, movement, kinetics and choreography. | [GENJE](https://github.com/donfelohke/Genje) |
+| **FELOH · AUTHORSHIP** | Human authorship, intellectual work, creative direction and accountable practice. | [Profile](https://github.com/donfelohke) · [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) |
+| **NAKEBUSEN · ROOT** | Beauty, loc care, heritage, craft, dignity and enterprise. The only live commercial practice. | [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) |
+| **IKAI · REFLECTION** | Reflective computing, perception, memory, mirror systems and human experience. Research / work in progress. | [IKAI](https://github.com/donfelohke/Ikai) |
+| **WARENA · CAPABILITY** | Libre-first systems engineering, GNU/Linux, reproducible infrastructure and digital sovereignty. | [WARENA](https://github.com/donfelohke/WARENA) |
+| **GENJE · EXPRESSION** | Genge-rooted music, livecoding, movement, performance and creative expression. | [GENJE](https://github.com/donfelohke/Genje) |
 
 **F3L0H** is the overarching human authorship identity; **#HisGenjeness** names its sovereign creative expression and public persona. Don Feloh is the human author connecting the practice domains. The **FELOH Corpus** is the shared canon, research and provenance record.
 
-> FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+**FELOH** — Authorship · Intellectual work · Creative direction  
+**NAKEBUSEN** — Beauty · Heritage · Craft · Enterprise  
+**IKAI** — Reflective computing · Perception · Memory · Human experience  
+**WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
+**GENJE** — Music · Movement · Performance · Creative expression
 
 **GRACE · GRIT · GLORY**
 
@@ -68,6 +73,8 @@ Research documents are not deployment claims. Each specialist repository owns it
 
 ## Editorial and publication system
 
+ [Five-identity architecture & copy standard](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-FIVE-IDENTITY-ARCHITECTURE-AND-COPY-STANDARD-2026-11-24.md).
+
 The [FELOH Copy System](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-COPY-SYSTEM-2026-11-24.md) governs shared web, design, campaign and technical messaging. Domain-specific copy and publication controls live in the NAKEBUSEN, WARENA, IKAI and GENJE repositories. The public website remains the audience-facing view; the Corpus remains the shared source of record.
 
 ## Working principles
@@ -109,7 +116,11 @@ For services and current contact routes, use the website.
 
 **GENJE ZA WARENA | NAKEBUSEN** is the shared signature. It does not collapse the identities into one business.
 
-> FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+**FELOH** — Authorship · Intellectual work · Creative direction  
+**NAKEBUSEN** — Beauty · Heritage · Craft · Enterprise  
+**IKAI** — Reflective computing · Perception · Memory · Human experience  
+**WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
+**GENJE** — Music · Movement · Performance · Creative expression
 
 **ONLY NAKEBUSEN TRANSACTS.** The profile is an index to independent works, not a claim that every repository is a released product.
 
