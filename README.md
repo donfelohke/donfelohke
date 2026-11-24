@@ -7,7 +7,7 @@
 Founder · CTO · Loctician · Creative Technologist  
 Kenya · Turkana roots · Eldoret practice
 
-I build, document and maintain independent works across beauty craft, computing, reflective research and creative practice. This GitHub profile is the technical and research index for that work.
+I build, document and maintain independent works across beauty craft, computing, reflective research and creative practice. This GitHub profile is the technical and research index for that work. Capabilities are demonstrated through the services, systems, research artefacts and creative experiences—not presented as a detached skills inventory.
 
 **[Website](https://donfelohke.github.io/) · [X](https://x.com/donfelohke) · [FELOH Corpus](https://github.com/donfelohke/feloh-corpus)**
 
