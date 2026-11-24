@@ -45,6 +45,16 @@ These are curated entry points, not a claim that every project is a finished pro
 
 ---
 
+## Latest specialist research · 24 November 2026
+
+- **[NAKEBUSEN — Eldoret Loc-Care Operations and Regulatory Verification](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/ELDORET-LOC-CARE-OPERATIONS-AND-REGULATORY-VERIFICATION-2026-11-24.md)** — local operations and regulatory evidence checklist; not a compliance certificate.
+- **[WARENA — Reproducible Systems and Real-Time I/O Validation](https://github.com/donfelohke/WARENA/blob/main/docs/REPRODUCIBLE-SYSTEMS-AND-REALTIME-IO-VALIDATION-2026-11-24.md)** — reproducible system inputs, software provenance and native media-pipeline validation.
+- **[IKAI — M1 Optical and Display Bench Addendum](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-M1-OPTICAL-AND-DISPLAY-BENCH-ADDENDUM-2026-11-24.md)** — proposed optical and display test protocol.
+- **[GENJE — Movement Notation and Interoperability Validation](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-MOVEMENT-NOTATION-AND-INTEROPERABILITY-VALIDATION-2026-11-24.md)** — movement notation, exchange formats and validation questions.
+- **[FELOH Corpus — Standards, Evidence, Benchmarks and Local Solutions](https://github.com/donfelohke/feloh-corpus/blob/main/docs/RESEARCH-PROGRAMME-STANDARDS-EVIDENCE-BENCHMARKS-LOCAL-SOLUTIONS-2026-11-24.md)** — shared cross-repository research programme.
+
+These are research records and proposed validation protocols, not claims of completed implementation, deployment, certification or compliance.
+
 ## Current research
 
 - **[BLACK HINTERLAND — BEFORE AFRICA](https://github.com/donfelohke/feloh-corpus/blob/main/docs/BLACK-HINTERLAND-BEFORE-AFRICA-MASTER-DOSSIER-2026-11-22.md)** — African deep time, ancestral geographies, peoples and civilisations, historical naming, partition and futures to 2100. Canonical home: FELOH Corpus.
