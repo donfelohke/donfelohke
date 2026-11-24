@@ -24,7 +24,11 @@ I build, document and maintain independent works across beauty craft, computing,
 
 **F3L0H** is the overarching human authorship identity; **#HisGenjeness** names its sovereign creative expression and public persona. Don Feloh is the human author connecting the practice domains. The **FELOH Corpus** is the shared canon, research and provenance record.
 
-> FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+**FELOH** — Authorship · Intellectual work · Creative direction  
+**NAKEBUSEN** — Beauty · Heritage · Craft · Enterprise  
+**IKAI** — Reflective computing · Perception · Memory · Human experience  
+**WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
+**GENJE** — Music · Movement · Performance · Creative expression
 
 **GRACE · GRIT · GLORY**
 
@@ -109,7 +113,11 @@ For services and current contact routes, use the website.
 
 **GENJE ZA WARENA | NAKEBUSEN** is the shared signature. It does not collapse the identities into one business.
 
-> FELOH generates. NAKEBUSEN grounds. IKAI reflects. WARENA enables. GENJE embodies.
+**FELOH** — Authorship · Intellectual work · Creative direction  
+**NAKEBUSEN** — Beauty · Heritage · Craft · Enterprise  
+**IKAI** — Reflective computing · Perception · Memory · Human experience  
+**WARENA** — Libre technology · Infrastructure · Systems engineering · Digital sovereignty  
+**GENJE** — Music · Movement · Performance · Creative expression
 
 **ONLY NAKEBUSEN TRANSACTS.** The profile is an index to independent works, not a claim that every repository is a released product.
 
