@@ -73,6 +73,8 @@ Research documents are not deployment claims. Each specialist repository owns it
 
 ## Editorial and publication system
 
+ [Five-identity architecture & copy standard](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-FIVE-IDENTITY-ARCHITECTURE-AND-COPY-STANDARD-2026-11-24.md).
+
 The [FELOH Copy System](https://github.com/donfelohke/feloh-corpus/blob/main/docs/FELOH-COPY-SYSTEM-2026-11-24.md) governs shared web, design, campaign and technical messaging. Domain-specific copy and publication controls live in the NAKEBUSEN, WARENA, IKAI and GENJE repositories. The public website remains the audience-facing view; the Corpus remains the shared source of record.
 
 ## Working principles
