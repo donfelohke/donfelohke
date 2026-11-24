@@ -13,14 +13,15 @@ I build, document and maintain independent works across beauty craft, computing,
 
 ---
 
-## One author · four practice domains
+## Five identities · one human author
 
-| Domain | Focus | Home |
+| Identity | Domain | Canonical home |
 |---|---|---|
-| **NAKEBUSEN · ROOT** | Loc care, beauty, heritage, craft and dignity. The only live commercial practice. | [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) |
-| **WARENA · CAPABILITY** | Libre-first systems engineering, GNU/Linux, reproducible infrastructure and technological sovereignty. | [WARENA](https://github.com/donfelohke/WARENA) |
-| **IKAI · MIRROR** | Reflective computing, human-computer interaction, mirror systems and embodied interfaces. | [IKAI](https://github.com/donfelohke/Ikai) |
-| **GENJE · EXPRESSION** | Genge, livecoding, music, movement, kinetics and choreography. | [GENJE](https://github.com/donfelohke/Genje) |
+| **FELOH · AUTHORSHIP** | Human authorship, intellectual work, creative direction and accountable practice. | [Profile](https://github.com/donfelohke) · [FELOH Corpus](https://github.com/donfelohke/feloh-corpus) |
+| **NAKEBUSEN · ROOT** | Beauty, loc care, heritage, craft, dignity and enterprise. The only live commercial practice. | [NAKEBUSEN](https://github.com/donfelohke/NAKEBUSEN) |
+| **IKAI · REFLECTION** | Reflective computing, perception, memory, mirror systems and human experience. Research / work in progress. | [IKAI](https://github.com/donfelohke/Ikai) |
+| **WARENA · CAPABILITY** | Libre-first systems engineering, GNU/Linux, reproducible infrastructure and digital sovereignty. | [WARENA](https://github.com/donfelohke/WARENA) |
+| **GENJE · EXPRESSION** | Genge-rooted music, livecoding, movement, performance and creative expression. | [GENJE](https://github.com/donfelohke/Genje) |
 
 **F3L0H** is the overarching human authorship identity; **#HisGenjeness** names its sovereign creative expression and public persona. Don Feloh is the human author connecting the practice domains. The **FELOH Corpus** is the shared canon, research and provenance record.
 
