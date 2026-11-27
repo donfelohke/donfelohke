@@ -63,7 +63,8 @@ Supporting repositories:
 - [GENJE — Movement Notation and Interoperability Validation](https://github.com/donfelohke/Genje/blob/main/docs/GENJE-MOVEMENT-NOTATION-AND-INTEROPERABILITY-VALIDATION-2026-11-24.md) — notation, provenance and exchange-format research.
 - [GENJE — TidalCycles and SuperCollider Livecoding Research](https://github.com/donfelohke/Genje/blob/main/docs/TIDALCYCLES-SUPERCOLLIDER-LIVECODING-RESEARCH-2026-11-27.md) — creative-system and livecoding research.
 - [NAKEBUSEN — Eldoret Loc-Care Operations and Regulatory Verification](https://github.com/donfelohke/NAKEBUSEN/blob/main/docs/ELDORET-LOC-CARE-OPERATIONS-AND-REGULATORY-VERIFICATION-2026-11-24.md) — local operations and regulatory evidence review.
-- [FSF — Freedom in Machine Learning Applications](https://www.fsf.org/news/fsf-is-working-on-freedom-in-machine-learning-applications) — an active research lead for examining freedom across ML applications, models, training and deployment.
+- [WARENA — Freedom in machine-learning applications research](https://github.com/donfelohke/WARENA/blob/main/docs/research/WARENA-FREEDOM-IN-MACHINE-LEARNING-RESEARCH-2026-11-27.md) — WARENA's research brief prompted by the [FSF announcement](https://www.fsf.org/news/fsf-is-working-on-freedom-in-machine-learning-applications).
+- [WARENA — Utility Shell, Kernel Boundaries and Composable Systems](https://github.com/donfelohke/WARENA/blob/main/docs/research/WARENA-UTILITY-SHELL-KERNEL-AND-COMPOSABLE-SYSTEMS-RESEARCH-2026-11-27.md) — reuse-first architecture research; not an implemented kernel.
 
 The Utility Shell Kernel is an exploratory architecture discussion, not an implemented kernel or released system. Composable service architecture is a research question, not a claim that a new operating system has been built.
 
