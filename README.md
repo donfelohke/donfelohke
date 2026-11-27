@@ -86,3 +86,7 @@ For loc-care and technical service enquiries, use NAKEBUSEN's public website and
 **HERITAGE · BLACK EXCELLENCE · SOVEREIGN FUTURES**
 
 *ONE CORPUS → MANY VIEWS → ONE PRACTICE.*
+
+## Canonical alignment · 27 November 2026
+
+See [Canonical identity alignment](FELOH-CANONICAL-IDENTITY-2026-11-27.md) for the dated cross-project definitions, evidence boundaries and repository-specific responsibilities.
