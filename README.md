@@ -20,7 +20,7 @@ I build and document independent work across natural loc care, GNU/Linux systems
 
 **FELOH** is the human author, founder and creative/technical decision-maker. The pillar mapping does not displace human authorship.
 
-**IKAI · MIRROR** is reflective-computing research. IKAI is a Turkana female name meaning “home”; its guiding principle is **a mirror, not a judge**.
+**IKAI · MIRROR** is reflective-computing research. The name is recorded using the founder-provided Turkana naming context: a female name meaning “home”; independent linguistic and community validation remains a research question. Its guiding principle is **a mirror, not a judge**.
 
 **FELOH Corpus** is the shared source of record for identity, governance, evidence, provenance and cross-project navigation. It is not another practice domain.
 
@@ -53,6 +53,7 @@ Supporting repositories:
 
 ## Current research and engineering
 
+- [WARENA — Real-Time Bidirectional I/O Standards Update](https://github.com/donfelohke/WARENA/blob/main/docs/research/REALTIME-BIDIRECTIONAL-IO-REFERENCE-UPDATE-2026-11-27.md) — V4L2, DMA-BUF, DRM/KMS, PipeWire, OpenXR and measurable buffer/timing contracts.
 - [WARENA — Camera, Display and Real-Time I/O at Scale](https://github.com/donfelohke/WARENA/blob/main/docs/CAMERA-DISPLAY-REALTIME-IO-SCALE-RESEARCH-2026-11-24.md) — native Linux media pipelines, buffers, clock domains and validation.
 - [WARENA — Reproducible Systems and Real-Time I/O Validation](https://github.com/donfelohke/WARENA/blob/main/docs/REPRODUCIBLE-SYSTEMS-AND-REALTIME-IO-VALIDATION-2026-11-24.md) — reproducible inputs, provenance and proposed validation.
 - [IKAI — M1 Optical and Display Bench Addendum](https://github.com/donfelohke/Ikai/blob/main/docs/IKAI-M1-OPTICAL-AND-DISPLAY-BENCH-ADDENDUM-2026-11-24.md) — optical and display test protocol.
