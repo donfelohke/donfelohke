@@ -14,9 +14,9 @@ Founder · CTO · Loctician · Creative Technologist
 ## Connected practices
 
 - **NAKEBUSEN:** sole customer-facing enterprise and transaction interface. Historical origin: Kanamkemer / Lodwar, Turkana County; current loc-care service operation: Eldoret Town, Uasin Gishu County, Kenya.
-- **WARENA:** Warena Architecture Re Network/ed Artefact. Preserve the recursive spelling and slash. Public principle: **Freedom Is a System.** Sheng “power-full” resonance is interpretive and context-dependent.
+- **WARENA:** Warena Architecture Re Network/ed Artefact. Preserve the recursive spelling and slash. Its authored English interpretation is **THE POWERFUL**; the associated Sheng fire/heat/energy resonance is contextual wordplay, not a verified literal translation. Public principle: **Freedom Is a System.**
 - **IKAI:** reflective-computing / mirror research. “Home” is the founder-provided Turkana naming context; independent validation remains open.
-- **GENJE:** authored creative practice. **GENJENESS** is the authored -ness concept. **SHENGE** as “great(-ness)” remains a speaker-validation question, not a settled dictionary claim.
+- **GENJE:** authored creative practice; its central authored English interpretation is **GREATNESS**. **GENJENESS** is the authored -ness concept. **SHENGE** as “great(-ness)” remains a speaker-validation question, not a settled dictionary claim. Kali, Noma and Ngori are associated expressions, not exact synonyms.
 - **FELOH Corpus:** shared constitution, evidence, provenance and governance.
 - **Gallery:** supporting asset rights, consent and approval repository.
 
